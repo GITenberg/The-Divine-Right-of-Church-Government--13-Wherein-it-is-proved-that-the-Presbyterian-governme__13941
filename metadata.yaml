@@ -1,0 +1,23 @@
+_repo: The-Divine-Right-of-Church-Government--13-Wherein-it-is-proved-that-the-Presbyterian-governme__13941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Canon Law
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Presbyterian Church -- Government'
+title: "The Divine Right of Church Government\r\nWherein it is proved that the Presbyterian\
+  \ government, by preaching and ruling elders, in sessional, Presbyterial and synodical\
+  \ assemblies, may lay the only lawful claim to a divine right, according to the\
+  \ Holy Scriptures"
+url: http://www.gutenberg.org/ebooks/13941
