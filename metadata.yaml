@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13941#The-Divine-Right-of-Church-Government--13-Wherein-it-is-proved-that-the-Presbyterian-governme_
 gutenberg_bookshelf: Canon Law
 gutenberg_issued: '2004-11-03'
 gutenberg_type: Text
